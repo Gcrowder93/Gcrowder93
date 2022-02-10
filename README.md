@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcrowder93&label=Profile%20views&color=0e75b6&style=flat" alt="gcrowder93" /> </p>
 
-- 🌱 I’m currently learning **working with APIs, and Auth**
+- 🌱 I’m currently learning **working with Testing, and Context**
 
 - 💬 Ask me about **react, java, css, or anything!**
 
