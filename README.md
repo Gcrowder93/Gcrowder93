@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chase <img height="40" src="https://emoji.gg/emoji/9391-bugcigarette"></h1>
-<h3 align="center">A passionate developer always wanting to learn more</h3>
+<h1 align="center">Hi 👋  I'm Chase <img height="40" src="https://emoji.gg/assets/emoji/9391-bugcigarette.png"></h1>
+<h3 align="center">A passionate developer striving to learn more.</h3>
 
 - 🔭 I’m currently working on my **improving my skills with React**
 
