@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  I'm Chase <img height="40" src="https://emoji.gg/assets/emoji/9391-bugcigarette.png"></h1>
+<h1 align="center">Hi 👋  I'm Chase <img height="50px" src="https://emoji.gg/assets/emoji/6300_scapedance.gif"></h1>
 <h3 align="center">A passionate developer striving to learn more.</h3>
 
 - 🔭 I’m currently working on my **improving my skills with React**
