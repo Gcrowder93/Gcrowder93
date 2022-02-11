@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chase Crowder</h1>
-<h3 align="center">A passionate developer always looking to continue to learn</h3>
+<h3 align="center">A passionate developer always looking to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcrowder93&label=Profile%20views&color=0e75b6&style=flat" alt="gcrowder93" /> </p>
 
