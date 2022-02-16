@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋  I'm Chase <img height="50px" src="https://emoji.gg/assets/emoji/6300_scapedance.gif"></h1>
 <h3 align="center">A passionate developer striving to learn more.</h3>
+<h6 align="center" >"We learn to work with anything that happens"<br> - Bob Ross</h6>
 
-- 🔭 I’m currently working on my **improving my skills with React**
+- 🔭 I’m currently working on my **Creating projects from scratch**
 
 - 🌱 I’m currently learning **JavaScript, React**
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me: **Gcrowder93@gmail.com**
 
-- ⚡ What I like to do: **I like to play disc golf, shoot some pool, and think about code**
+- ⚡ What I like to do: **I like being a nerd. Video games, disc golf, billards, and code.**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
