@@ -45,7 +45,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Gcrowder93&theme=monokai&show_icons=true&include_all_commits=true" />
 </p>
 
-![snake gif](https://github.com/gcrowder93/gcrowder93/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/gcrowder93/gcrowder93/blob/output/github-contribution-grid-snake.svg)
 
 ------
 
