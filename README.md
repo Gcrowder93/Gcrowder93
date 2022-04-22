@@ -2,11 +2,15 @@
 <h3 align="center">A passionate developer striving to learn more.</h3>
 <h6 align="center" >"We learn to work with anything that happens"<br> - Bob Ross</h6>
 
-- 🔭 I’m currently working on my **Creating projects from scratch**
+<!-- - 🔭 I’m currently working on my **Creating projects from scratch** -->
+<!-- 
+- 🌱 I’m currently learning **JavaScript, React, and Express** -->
 
-- 🌱 I’m currently learning **JavaScript, React, and Express**
+- 🔭 I'm currently searching for work in **front-end or back-end**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 🌱 I'm currently working on **improving my overall styling skills**
+
+<!-- - 👯 I’m looking to collaborate on **styling** -->
 
 - 📫 How to reach me: **Gcrowder93@gmail.com**
 
